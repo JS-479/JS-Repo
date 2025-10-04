@@ -1,2 +1,2 @@
 # JS-Repo
-Testing
+First time using git
